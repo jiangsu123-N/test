@@ -1,0 +1,1 @@
+clan://localhost/tvbox/jsm2/jsm2.json
