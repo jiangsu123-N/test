@@ -30,7 +30,7 @@
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
-      "ext": "./lib/bh.json"
+      "ext": "https://bgithub.xyz/jiangsu123-N/test/blob/main/bh.json"
     },
     {
       "key": "热播影视",
