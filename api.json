@@ -2283,7 +2283,7 @@
         {
             "name": "AI直播",
             "type": 0,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
+            "url": "https://raw.bgithub.xyz/jiangsu123-N/test/refs/heads/main/zb.txt",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
             "timeout": 10
         },
